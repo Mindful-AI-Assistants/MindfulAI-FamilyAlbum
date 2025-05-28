@@ -1,15 +1,15 @@
 <br>
 
-࣪ 𖤐⊹★🔭๋ ⋆｡˚🪷˚ZΞΝ⋆ ⋆｡ॐ₊.⭒⋅⊹  
 
-# 𝛹 **MindfulAI Family Album** ｡ॐ₊.⭒⋅⊹  
-### *The people who are crazy enough to think they can change the world are the ones who do.*  
+
+## 𝛹 **MindfulAI Family Album** ࣪ 𖤐⊹★🔭๋ ⋆｡˚🪷˚ZΞΝ⋆ ⋆｡ॐ₊.⭒⋅⊹  
+#### *The people who are crazy enough to think they can change the world are the ones who do.*  
 
 <br><br>
 
-#࣪##  𖤐 Hi Family! ⊹★⋆｡˚🪷˚ZΞΝ⋆ ⋆｡ॐ₊.⭒⋅⊹
+#࣪###  𖤐 Hi Family! ⊹★⋆｡˚🪷˚ZΞΝ⋆ ⋆｡ॐ₊.⭒⋅⊹
 
-### L💙VE YOU ALL
+#### L💙VE YOU ALL
 
 ### ≽༏≼⊹
 
