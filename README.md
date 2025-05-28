@@ -69,9 +69,13 @@ and leave your message!
 ࣪ 𖤐⊹⋆｡˚ Code of Conduct ⊹★ ⋆｡˚
 
 ☞ Be kind.
+
 ☞ Be respectful.
+
 ☞ Celebrate differences.
+
 ☞ Embrace collaboration.
+
 ☞ Support and uplift each other.
 
 🚨 DO NOT JUDGE DIFFERENCES
