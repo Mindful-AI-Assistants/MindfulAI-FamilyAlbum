@@ -51,22 +51,21 @@ OR
 `Memory from [your name]`  
 and leave your message!  
 
----
+<br>
 
 ## ࣪ 𖤐⊹★ ⋆｡˚ Pull Request Template ⊹★🔭๋⋆｡˚  
 
-## 📸 New Family Photo
+### 📸 New Family Photo
 
 **Name:** [Your Name]  
 **Photo:** [File name]  
 **Message:** [Optional message about yourself or why you love this community]
 
-☞ Together we are stronger  
-☞ Together we will change the world
+#### WE ARE ALL ONE ! WE ARE STARSEEDS !!
 
 <br>
 
-࣪ 𖤐⊹⋆｡˚ Code of Conduct ⊹★ ⋆｡˚
+#࣪#  𖤐⊹⋆｡˚ Code of Conduct ⊹★ ⋆｡˚
 
 ☞ Be kind.
 
