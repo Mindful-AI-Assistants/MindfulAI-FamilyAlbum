@@ -24,7 +24,7 @@
 
 <br><br>
 
-## ࣪ 𖤐⊹★⋆｡˚ About this repo ⊹★🔭๋࣭ ⋆｡˚  
+## ࣪ 𖤐⊹★⋆｡˚ About this repo ⊹★🔭๋⋆｡˚  
 
 This is our **collective family album**, a space where we gather not just photos, but stories and the shared energy of who we are:  
 
