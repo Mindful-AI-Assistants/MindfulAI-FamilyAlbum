@@ -20,7 +20,7 @@
 
 <br><br>
 
-![MindfulAI](https://img.shields.io/badge/MindfulAI-𖤐⊹★🔭๋࣭⋆｡˚🪷˚ZΞΝ⋆-brightgreen)  ![HumanisticAI](https://img.shields.io/badge/Humanistic_AI-⋆｡ॐ₊.⭒⋅⊹-blueviolet)  ![PUC-SP](https://img.shields.io/badge/PUC--SP-☞≽༏≼⊹-lightgrey)  ![OpenPR](https://img.shields.io/badge/Open-Pull_Request-blue) 
+![MindfulAI](https://img.shields.io/badge/MindfulAI-𖤐🪷˚ZΞΝ⋆｡ॐ₊.⋆-brightgreen)  ![HumanisticAI](https://img.shields.io/badge/Humanistic_AI-⋆｡ॐ₊.⭒⋅⊹-blueviolet)  ![PUC-SP](https://img.shields.io/badge/PUC--SP-☞≽༏≼⊹-lightgrey)  ![OpenPR](https://img.shields.io/badge/Open-Pull_Request-blue) 
 
 <br><br>
 
