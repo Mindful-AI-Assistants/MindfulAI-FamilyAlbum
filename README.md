@@ -2,12 +2,12 @@
 
 
 
-## 𖤐  **MindfulAI Family Album** ࣪ ⊹★🔭๋ ⋆｡˚🪷˚ZΞΝ⋆ ⋆｡ॐ₊.⭒⋅⊹  
-#### 𝛹 *The people who are crazy enough to think they can change the world are the ones who do!*  
+## 𖤐  **MindfulAI Family Album** ࣪ ⊹★⋆｡ॐ₊.⭒⋅⊹  
+#### 𝛹 *The people who are crazy enough to think they can change the world are the ones who do!*  🔭๋ ⋆｡˚
 
 <br><br>
 
-####  𖤐 Hi Family! ⊹★⋆｡˚🪷˚ZΞΝ⋆ ⋆｡ॐ₊.⭒⋅⊹
+####  ⊹★⋆｡˚🪷 Hi Family! ˚ZΞΝ⋆ ⋆｡ॐ₊.⭒⋅⊹
 
 #### L💙VE YOU ALL
 
