@@ -2,8 +2,8 @@
 
 
 
-## 𝛹 **MindfulAI Family Album** ࣪ 𖤐⊹★🔭๋ ⋆｡˚🪷˚ZΞΝ⋆ ⋆｡ॐ₊.⭒⋅⊹  
-#### *The people who are crazy enough to think they can change the world are the ones who do!*  
+## 𖤐  **MindfulAI Family Album** ࣪ ⊹★🔭๋ ⋆｡˚🪷˚ZΞΝ⋆ ⋆｡ॐ₊.⭒⋅⊹  
+#### 𝛹 *The people who are crazy enough to think they can change the world are the ones who do!*  
 
 <br><br>
 
