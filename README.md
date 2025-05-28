@@ -45,11 +45,6 @@ Each contribution is more than a picture:
 4. ☞ Open a **Pull Request**:  
    `add photo - [your name]`  
 
-OR  
-
-☞ Open an **Issue** titled:  
-`Memory from [your name]`  
-and leave your message!  
 
 <br>
 
@@ -65,7 +60,8 @@ and leave your message!
 
 <br>
 
-#࣪#  𖤐⊹⋆｡˚ Code of Conduct ⊹★ ⋆｡˚
+
+## 𖤐⊹⋆｡˚ Code of Conduct ⊹★ ⋆｡˚
 
 ☞ Be kind.
 
@@ -79,7 +75,7 @@ and leave your message!
 
 🚨 DO NOT JUDGE DIFFERENCES
 
-🌿 TREAT THEM AS A SACRED GIFT
+🌻 TREAT THEM AS A SACRED GIFT
 
 <br>
 
@@ -87,7 +83,7 @@ and leave your message!
 
 <br>
 
-### This is a safe space where we cherish authenticity, vulnerability, and creativity.
+#### This is a safe space where we cherish authenticity, vulnerability, and creativity.
 
 <br>
 
