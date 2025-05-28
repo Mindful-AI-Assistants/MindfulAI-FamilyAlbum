@@ -2,6 +2,12 @@
 
 # ˚🪷 MindfulAI-Family ｡˚⋆｡ॐ₊.⭒⋅⊹
 
+![MindfulAI](https://img.shields.io/badge/MindfulAI-%F0%9F%AA%B7%20%F0%9F%8D%B7%20%F0%9F%8C%BF-brightgreen)  
+![Humanistic AI](https://img.shields.io/badge/Humanistic_AI-%F0%9F%A7%A9-blueviolet)  
+![PUC-SP](https://img.shields.io/badge/PUC--SP-%F0%9F%92%9A-lightgrey)  
+![Together Stronger](https://img.shields.io/badge/Together-stronger-important)  
+![Open Pull Request](https://img.shields.io/badge/PRs-welcome-blue)  
+
 
 
 # ࣪ 𖤐 Hi Family! ⊹★ ⋆｡˚ZΞΝ⋆ ⋆｡ॐ₊.⭒⋅⊹
