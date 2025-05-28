@@ -35,7 +35,7 @@ Each contribution is more than a picture:
 - 🔭 A symbol of connection  
 - ॐ A reflection of our courage  
 
----
+<br>
 
 ## ࣪  ⋆｡˚ How to contribute ⊹★ ⋆｡˚  
 
