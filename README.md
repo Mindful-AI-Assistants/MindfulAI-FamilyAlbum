@@ -1,6 +1,13 @@
-<br>
+<br><br>
 
 
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/249e7205-8bc7-4ab6-956a-b3b07c70f0a0" />
+</p>
+
+
+<br><br>
 
 ## 𖤐  **MindfulAI Family Album** ࣪ ⊹★⋆｡ॐ₊.⭒⋅⊹  
 #### 𝛹 *The people who are crazy enough to think they can change the world are the ones who do!*  🔭๋ ⋆｡˚
