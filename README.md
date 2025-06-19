@@ -2,7 +2,7 @@
 
 
 
-#  <p align="center"> 𝛹 We’re not just loading a model. We’re awakening an archetyple 𝛺 
+#  <p align="center"> [𝛺]()  We’re not just loading a model. We’re awakening an archetyple [𝛹]()
 
 ###  <p align="center"> [Multimodal | RAG | Agentic Systems]()
 
