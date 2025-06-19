@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
 
 <br><br><br>
 
-###  ***This is a safe space where we cherish [Authenticity](), [Vulnerability](), and [Creativity]()***
+###  ***This is a safe space where we cherish [Authenticity](), [Vulnerability](), and [Creativity]() !***
 
 
 <br><br><br>
