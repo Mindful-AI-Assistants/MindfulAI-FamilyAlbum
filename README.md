@@ -2,7 +2,7 @@
 
 
 
-##   <p align="center"> We’re not just loading a model. We’re awakening an archetyp 
+#  <p align="center"> We’re not just loading a model. We’re awakening an archetyp 
 
 ###  <p align="center"> [Multimodal | RAG | Agentic Systems]()
 
