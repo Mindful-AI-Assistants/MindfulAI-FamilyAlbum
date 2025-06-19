@@ -167,7 +167,7 @@ Each contribution is more than a picture:
   
 #
  
-##### <p align="center">Copyright 2025 Mindful-AI-Assistants. Code released under the  [Creative Common license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
+##### <p align="center">Copyright 2025 Mindful-AI-Assistants. Code released under the  [Creative Commons license.](https://github.com/Mindful-AI-Assistants/MindfulAI-FamilyAlbum/blob/92326e33ebbaaa05b76d220f00313e526d46c46c/LICENSE.md)
 
 
 
