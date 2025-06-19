@@ -2,7 +2,9 @@
 
 
 
-###   We’re not just loading a model. We’re awakening an archetyp -  [Multimodal | RAG | Agentic Systems]()
+###   We’re not just loading a model. We’re awakening an archetyp 
+
+### [Multimodal | RAG | Agentic Systems]()
 
 
 <br><br>
