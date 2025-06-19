@@ -5,7 +5,7 @@
 ## <p align="center"> We’re not just loading a model. We’re awakening an archetyp
 ### <p align="center"> [Multimodal | RAG | Agentic Systems]()
 
-<br><br>
+<br><br><br><br>
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -31,7 +31,7 @@
 
 
 
-<br><br>
+<br><br><br><br>
 
 https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
 
