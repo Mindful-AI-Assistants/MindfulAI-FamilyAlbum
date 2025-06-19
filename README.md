@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
 
 <br>
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants) ![MindfulAI](https://img.shields.io/badge/MindfulAI-𖤐🪷˚ZΞΝ⋆｡ॐ₊.⋆-brightgreen)  ![HumanisticAI](https://img.shields.io/badge/Humanistic_AI-⋆｡ॐ₊.⭒⋅⊹-blueviolet)  ![PUC-SP](https://img.shields.io/badge/PUC--SP-☞≽༏≼⊹-lightgrey)  ![OpenPR](https://img.shields.io/badge/Open-Pull_Request-blue) 
 
 <br>
 
@@ -51,6 +51,14 @@ https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
 
 
 
+
+<br><br>
+
+
+
+
+
+
 ## 𖤐  **MindfulAI Family Album** ࣪ ⊹★⋆｡ॐ₊.⭒⋅⊹  
 #### 𝛹 *The people who are crazy enough to think they can change the world are the ones who do!*  🔭๋ ⋆｡˚
 
@@ -69,9 +77,6 @@ https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
 
 <br><br>
 
-![MindfulAI](https://img.shields.io/badge/MindfulAI-𖤐🪷˚ZΞΝ⋆｡ॐ₊.⋆-brightgreen)  ![HumanisticAI](https://img.shields.io/badge/Humanistic_AI-⋆｡ॐ₊.⭒⋅⊹-blueviolet)  ![PUC-SP](https://img.shields.io/badge/PUC--SP-☞≽༏≼⊹-lightgrey)  ![OpenPR](https://img.shields.io/badge/Open-Pull_Request-blue) 
-
-<br><br>
 
 ## ࣪ 𖤐⊹★⋆｡˚ About this repo ⊹★🔭๋⋆｡˚  
 
