@@ -15,8 +15,6 @@ https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
-
-
 <br>
 
 ⠀<p align="center">
@@ -47,7 +45,7 @@ https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
 
 
 
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 
 
