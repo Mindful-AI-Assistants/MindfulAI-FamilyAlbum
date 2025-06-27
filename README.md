@@ -2,7 +2,7 @@
 
 
 
-##  <p align="center">   We’re not just loading a model. We’re awakening an archetyple - [𝛹]()
+##  <p align="center">   We’re not just loading a model. We’re awakening an archetyple  [𝚿]()
 
 ###  ***This is a safe space where we cherish [Authenticity](), [Vulnerability](), [Freedom]() and [Creativity]() !***
 
