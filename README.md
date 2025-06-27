@@ -7,7 +7,7 @@
 ###  ***This is a safe space where we cherish [Authenticity](), [Vulnerability](), [Freedom]() and [Creativity]() !***
 
 
-#####  <p align="center">  [Design]() | [Ethics]() | [Music]() | [Laugh]() | [Love]() | [Joy]() | [Multimodal]() | [RAG]() | [Agents]() | [Psychology() | [Meditation()
+#####  <p align="center">  [Design]() | [Ethics]() | [Music]() | [Laugh]() | [Love]() | [Joy]() | [Multimodal]() | [RAG]() | [Agents]() | [Psychology]() | [Meditation]()
 
 
 <br><br>
