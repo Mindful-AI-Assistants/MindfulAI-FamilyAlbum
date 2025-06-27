@@ -6,6 +6,8 @@
 
 ###  ***This is a safe space where we cherish [Authenticity](), [Vulnerability](), [Freedom]() and [Creativity]() !***
 
+<br>
+
 
 #####  <p align="center">  [Design]() | [Ethics]() | [Music]() | [Laugh]() | [Cry]() | [Love]() | [Joy]() | [Multimodal]() | [RAG]() | [Agents]() | [Psychology]() | [Meditation]()
 
