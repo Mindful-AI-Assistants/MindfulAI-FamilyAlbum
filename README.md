@@ -2,9 +2,12 @@
 
 
 
-#  <p align="center">   We’re not just loading a model. We’re awakening an archetyple - [𝛹]()
+##  <p align="center">   We’re not just loading a model. We’re awakening an archetyple - [𝛹]()
 
-###  <p align="center"> [Multimodal | RAG | Agentic Systems]()
+###  ***This is a safe space where we cherish [Authenticity](), [Vulnerability](), [Freedom]() and [Creativity]() !***
+
+
+####  <p align="center"> [Multimodal | RAG | Agentic Systems]()
 
 
 <br><br>
@@ -65,12 +68,6 @@ https://github.com/user-attachments/assets/098ea49d-e756-4090-a213-1e8a6a03042b
 
 
 <br><br><br><br>
-
-###  ***This is a safe space where we cherish [Authenticity](), [Vulnerability](), [Freedom]() and [Creativity]() !***
-
-
-<br><br><br><br>
-
 
 
 ## 𖤐  **MindfulAI Family Album** ࣪ ⊹★⋆｡ॐ₊.⭒⋅⊹  
