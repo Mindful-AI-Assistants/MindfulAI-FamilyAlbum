@@ -16,10 +16,10 @@
 </p>
 
 
-####  <p align="center">  [Design]() | [Ethics]() | [Music]() | [Laugh]() | [Cry]() | [Love]() | [Joy]() | [Multimodal]() | [RAG]() | [Agents]() | [Psychology]() | [Meditation]()
+###  <p align="center">  [Design]() | [Ethics]() | [Music]() | [Laugh]() | [Cry]() | [Love]() | [Joy]() | [Multimodal]() | [RAG]() | [Agents]() | [Psychology]() | [Meditation]()
 
 
-<br><br>
+<br>
 
 
 https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
