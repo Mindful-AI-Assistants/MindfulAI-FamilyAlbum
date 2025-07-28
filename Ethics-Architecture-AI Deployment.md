@@ -75,6 +75,16 @@ Ultimately, this blueprint pushes the frontier from reactive automation toward a
 
 <br>
 
+## Usage
+
+The blueprint serves researchers and engineers developing safe, ethical, and intelligent physical AI agents by providing:
+
+- APIs for memory management and decision logic
+- Latency and threat model specifications
+- Metrics and benchmark protocols
+
+<br>
+
 ## References
 
 Here are some key references cited in the document that ground its methods and architecture in established research:
