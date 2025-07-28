@@ -7,7 +7,7 @@
 
 <br>
 
-### [𝚿](). Access the document here: [Operational Blueprint for Physical AI Deployment (v1.6) - PDF]()
+### [𝚿](). Access the document here: [Operational Blueprint for Physical AI Deployment (v1.6) - PDF](https://github.com/Mindful-AI-Assistants/MindfulAI-FamilyAlbum/blob/81a2d5b2799a428b1794d6e804152527751772a7/Operational%20Blueprint%20for%20Physical%20AI%20Deployment%20-%20Ethics-First%20Architecture.pdf)
 
 <br>
 
