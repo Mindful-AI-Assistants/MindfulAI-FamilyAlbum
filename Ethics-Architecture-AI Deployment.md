@@ -25,3 +25,39 @@ This document presents an advanced architecture for physical AI agents operating
 - **Open Source:** Clear specifications, latency budgets, and enumerated threat models to ensure reproducibility.
 
 <br>
+
+## Document Structure
+
+1. Introduction
+2. Related Work
+3. Methods / Architecture (with formal ternary algebra and latency specs)
+4. Experiments \& Evaluation (benchmarks and field pilots)
+5. Discussion (limitations and broader impact)
+6. Conclusion
+7. References
+8. Appendices (threat models, explainable graphs, glossary)
+
+
+<br>
+
+## Key Results
+
+- 22% reduction in safety incidents and up to 23 percentage points increase in success rate compared to binary baseline.
+- The 'undecided' state (0) accounted for 41% of safety improvements by enabling micro-pauses in decisions.
+- Effective use of memory retrieval through RAG reduced latency variance and increased explainability.
+- Ethical bias protection via statistical audit and recursive review built-in.
+- Real-world applications validated with various robotic and drone use cases.
+
+
+<br>
+
+
+## Limitations and Future Work
+
+- Computational cost (approx. 6 ms/cycle diagnostic overhead) limits fleet scalability – possible hardware acceleration needed.
+- Sparse real-world ethical labels introduce domain shift; new data collection and human-in-the-loop methods required.
+- Latency spikes from memory retrieval can reach 96 ms; asynchronous pre-fetch and optimizations planned.
+- Future extensions include emotion simulation layers, recursive ethical auditors, and cross-agent memory sync for fleets.
+
+
+<br>
