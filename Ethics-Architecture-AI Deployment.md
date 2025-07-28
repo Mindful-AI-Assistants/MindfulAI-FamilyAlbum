@@ -4,6 +4,11 @@
 ## Operational Blueprint for Physical AI Deployment (v1.6)
 ### An Ethics-First Architecture for Robust and Reproducible Physical AI Agents in Open-W orld Environments
 
+
+<br>
+
+### [𝚿](). Access the document here: [Operational Blueprint for Physical AI Deployment (v1.6) - PDF]()
+
 <br>
 
 
