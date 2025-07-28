@@ -6,6 +6,21 @@
 
 <br>
 
+
+## Document Structure
+
+1. Introduction
+2. Related Work
+3. Methods / Architecture (with formal ternary algebra and latency specs)
+4. Experiments \& Evaluation (benchmarks and field pilots)
+5. Discussion (limitations and broader impact)
+6. Conclusion
+7. References
+8. Appendices (threat models, explainable graphs, glossary)
+
+<br>
+
+
 ## Overview
 
 This document presents an advanced architecture for physical AI agents operating in open and complex environments, focusing on robustness, reproducibility, and embedded ethics. The design combines multimodal perception, episodic-semantic SQL-based memory, ternary logic (-1, 0, +1) for decision-making under uncertainty, and an introspective learning loop to create an autonomous and responsible entity.
@@ -34,19 +49,6 @@ Ultimately, this blueprint pushes the frontier from reactive automation toward a
 - **Human Interfaces:** Natural dialogue, real-time monitoring, alert escalation protocols, and open external APIs.
 - **Comprehensive Testing:** Benchmarks in Habitat 3.0 with sensor dropout and real-world cases including urban deliveries, scientific fieldwork, environmental drones, and industrial maintenance.
 - **Open Source:** Clear specifications, latency budgets, and enumerated threat models to ensure reproducibility.
-
-<br>
-
-## Document Structure
-
-1. Introduction
-2. Related Work
-3. Methods / Architecture (with formal ternary algebra and latency specs)
-4. Experiments \& Evaluation (benchmarks and field pilots)
-5. Discussion (limitations and broader impact)
-6. Conclusion
-7. References
-8. Appendices (threat models, explainable graphs, glossary)
 
 
 <br>
