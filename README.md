@@ -9,6 +9,15 @@
 
 <br>
 
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb334a89-717a-4727-9e83-fe91c8910d63" alt="Image" width="900" />
+</p>
+
+
+<br>
+
 
 #####  <p align="center">  [Design]() | [Ethics]() | [Music]() | [Laugh]() | [Cry]() | [Love]() | [Joy]() | [Multimodal]() | [RAG]() | [Agents]() | [Psychology]() | [Meditation]()
 
