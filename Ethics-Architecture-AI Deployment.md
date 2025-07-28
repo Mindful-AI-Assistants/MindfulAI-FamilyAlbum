@@ -97,5 +97,11 @@ Here are some key references cited in the document that ground its methods and a
 - European Parliament (2016). General Data Protection Regulation (GDPR).  
 
 
+<br>
+
+## Contact and Contribution
+
+Contributions and replication are encouraged via the Interdisciplinary Research Facility for Open Sciences (RFI-IRFOS) channels in 2025.
+
 
 
