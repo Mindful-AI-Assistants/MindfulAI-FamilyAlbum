@@ -6,9 +6,6 @@
 
 ###  ***This is a safe space where we cherish [Authenticity](), [Vulnerability](), [Freedom]() and [Creativity]() !***
 
-<br>
-
- https://github.com/user-attachments/assets/bb334a89-717a-4727-9e83-fe91c8910d63
 
 <br>
 
