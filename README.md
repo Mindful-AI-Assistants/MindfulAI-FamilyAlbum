@@ -15,7 +15,11 @@
 
 <br><br>
 
-### So, [We Are Friends]() ... 🎶 Thank You... 🎶
+#
+
+<br>
+
+### <p align="center"> So, [We Are Friends]() ... 🎶 Thank You... 🎶
 
 <br>
 
