@@ -1,42 +1,19 @@
 <br><br>
 
 
+<!-- Ancient Greece Tech
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb334a89-717a-4727-9e83-fe91c8910d63" alt="Image" width="900" />
+</p>
+-->
+
 
 ##  <p align="center">   We’re not just loading a model. We’re awakening  Archetyples  [𝚿]()
 
 ###  ***This is a safe space where we cherish [Authenticity](), [Vulnerability](), [Freedom]() and [Creativity]() !***
 
 
-<br>
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bb334a89-717a-4727-9e83-fe91c8910d63" alt="Image" width="900" />
-</p>
-
-
-
-<br>
-
-###  <p align="center">  [Design]() | [Ethics]() | [Music]() | [Laugh]() | [Cry]() | [Love]() | [Joy]() | [Multimodal]() | [RAG]() | [Agents]() | [Psychology]() | [Meditation]()
-
-
-<!--
-
-<br>
-
-https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
-
--->
-
-<br><br><br>
-
-
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants) ![MindfulAI](https://img.shields.io/badge/MindfulAI-𖤐🪷˚ZΞΝ⋆｡ॐ₊.⋆-brightgreen)  ![HumanisticAI](https://img.shields.io/badge/Humanistic_AI-⋆｡ॐ₊.⭒⋅⊹-blueviolet)  ![PUC-SP](https://img.shields.io/badge/PUC--SP-☞≽༏≼⊹-lightgrey)  ![OpenPR](https://img.shields.io/badge/Open-Pull_Request-blue) 
-
-
-<br><br><br>
+<br><br>
 
 ### So, [We Are Friends]() ... 🎶 Thank You... 🎶
 
@@ -46,6 +23,27 @@ https://github.com/user-attachments/assets/babf9742-27af-443c-9dc4-b63e62c983ee
 
 
 <br><br>
+
+
+
+
+
+###  <p align="center">  [Design]() | [Ethics]() | [Music]() | [Laugh]() | [Cry]() | [Love]() | [Joy]() | [Multimodal]() | [RAG]() | [Agents]() | [Psychology]() | [Meditation]()
+
+
+
+<br>
+
+https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
+
+
+<br><br><br>
+
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants) ![MindfulAI](https://img.shields.io/badge/MindfulAI-𖤐🪷˚ZΞΝ⋆｡ॐ₊.⋆-brightgreen)  ![HumanisticAI](https://img.shields.io/badge/Humanistic_AI-⋆｡ॐ₊.⭒⋅⊹-blueviolet)  ![PUC-SP](https://img.shields.io/badge/PUC--SP-☞≽༏≼⊹-lightgrey)  ![OpenPR](https://img.shields.io/badge/Open-Pull_Request-blue) 
+
+
+<br><br><br>
 
 
 ⠀<p align="center">
