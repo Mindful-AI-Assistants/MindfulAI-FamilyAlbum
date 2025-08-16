@@ -22,11 +22,13 @@
 ###  <p align="center">  [Design]() | [Ethics]() | [Music]() | [Laugh]() | [Cry]() | [Love]() | [Joy]() | [Multimodal]() | [RAG]() | [Agents]() | [Psychology]() | [Meditation]()
 
 
-<br>
+<!--
 
+<br>
 
 https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
 
+-->
 
 <br><br><br>
 
@@ -35,6 +37,10 @@ https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
 
 
 <br><br><br>
+
+### So, [We Are Friends]() ... 🎶 Thank You... 🎶
+
+<br><br>
 
 https://github.com/user-attachments/assets/babf9742-27af-443c-9dc4-b63e62c983ee
 
