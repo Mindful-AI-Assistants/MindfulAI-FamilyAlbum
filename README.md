@@ -58,11 +58,6 @@ https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
 
 <br>
 
-![Image](https://github.com/user-attachments/assets/e706413f-b774-4f63-bdb1-d37960d9899d)
-
-
-<br>
-
 
 <div align="center">
 
@@ -90,6 +85,19 @@ https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
 
 
 <br><br><br><br>
+
+
+<!-- PROF WAGNER -->
+
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/e706413f-b774-4f63-bdb1-d37960d9899d "/> <br>
+
+
+<br><br>
+
+
+
+
 
 
 <div align="center">
