@@ -89,14 +89,27 @@ https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
 
 <!-- PROF WAGNER -->
 
+## 👌  Epic Uni Vibes  
+
+### 📢 Professor Wagner’s Official Classroom Call!  
+
+Our professor just dropped the **hit of the semester**:  
+the big call to bring us back from break.  
+
+Yes, we wanted to stretch those extra minutes…  
+but he didn’t let it slide.  
+
+✨  Uni life cracks me up!!! 🤣🤣  
+
+
+<br>
+
+
  <p align="center">
 <img src="https://github.com/user-attachments/assets/e706413f-b774-4f63-bdb1-d37960d9899d "/> <br>
 
 
 <br><br>
-
-
-
 
 
 
