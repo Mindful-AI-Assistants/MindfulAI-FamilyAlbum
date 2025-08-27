@@ -26,9 +26,27 @@
 https://github.com/user-attachments/assets/babf9742-27af-443c-9dc4-b63e62c983ee
 
 
-<br><br>
+<br><br><br>
+          
+
+> [!IMPORTANT]
+>
+> August 27, 2025
+>
+> Today Was Truly a Beautiful Day. 
+>
+> ✨ We Did It ! ✨
+>
+> From Dark to Light, From Vision to Action
+>
+> Together, We’re Really Changing the World.
+>
+>  𓂃˖˳·˖ ִֶָ ⋆🌻⋆ ִֶָ˖·˳˖𓂃 ִֶָ
+> 
+> Love You All So Much! 
 
 
+<br><br><br>
 
 
 
