@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/babf9742-27af-443c-9dc4-b63e62c983ee
 
 
 
-###  <p align="center">  [Design]() | [Ethics]() | [Music]() | [Laugh]() | [Cry]() | [Love]() | [Joy]() | [Multimodal]() | [RAG]() | [EMPATHY]() | [Agents]() | [Psychology]() | [Meditation]()
+###  <p align="center">  [Design]() | [Ethics]() | [Math]() | [Art]() | [Music]() | [Code]() | [Laugh]() | [Cry]() | [Love]() | [Joy]() | [Multimodal]() | [Dance]() | [RAG]() | [EMPATHY]() | [Agents]() | [Psychology]() | [Meditation]()
 
 
 
