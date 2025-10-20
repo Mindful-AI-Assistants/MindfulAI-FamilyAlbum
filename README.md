@@ -15,9 +15,12 @@
 
 <br><br>
 
-#
+###  <p align="center">  [Design]() | [Ethics]() | [Math]() | [Art]() | [Music]() | [Code]() | [Laugh]() | [Cry]() | [Love]() | [Joy]() | [Multimodal]() | [Dance]() | [RAG]() | [EMPATHY]() | [Agents]() | [Psychology]() | [Meditation]() | [Logic]() | [Intuition]() |
 
-<br>
+
+
+<br><br>
+
 
 ### <p align="center"> So, [We Are Friends]() ... 🎶 Thank You... 🎶
 
@@ -53,12 +56,6 @@ https://github.com/user-attachments/assets/babf9742-27af-443c-9dc4-b63e62c983ee
 <br><br><br>
 
 
-
-###  <p align="center">  [Design]() | [Ethics]() | [Math]() | [Art]() | [Music]() | [Code]() | [Laugh]() | [Cry]() | [Love]() | [Joy]() | [Multimodal]() | [Dance]() | [RAG]() | [EMPATHY]() | [Agents]() | [Psychology]() | [Meditation]() | [Logic]() | [Intuition]() |
-
-
-
-<br>
 
 https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
 
