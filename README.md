@@ -148,6 +148,13 @@ https://github.com/user-attachments/assets/098ea49d-e756-4090-a213-1e8a6a03042b
 <br><br><br><br>
 
 
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/cccf2d11-5ef9-4cbc-9e4f-8f5e812ceffb"/>
+
+<br><br><br><br>
+
+
+
 ## 𖤐  **MindfulAI Family Album** ࣪ ⊹★⋆｡ॐ₊.⭒⋅⊹  
 #### 𝛹 *The people who are crazy enough to think they can change the world are the ones who do!*  🔭๋ ⋆｡˚
 
