@@ -31,7 +31,8 @@ https://github.com/user-attachments/assets/babf9742-27af-443c-9dc4-b63e62c983ee
 
 
 
-<br><br>
+<br><br><br>
+
 
 ### <p align="center"> 🐷 CONTRO TUTTO E CONTRO TUTTI ❤️ Oggi e Per Sempre 💚 Avanti Palestra 🇮🇹 
 
@@ -40,7 +41,8 @@ https://github.com/user-attachments/assets/babf9742-27af-443c-9dc4-b63e62c983ee
 https://github.com/user-attachments/assets/430b5d23-6e0a-4876-986c-b3127141ac75
 
 
-<br><br><br>
+
+<br><br><br><br>
           
 
 > [!IMPORTANT]
