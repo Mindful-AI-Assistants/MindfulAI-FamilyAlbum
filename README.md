@@ -13,13 +13,14 @@
 ###  ***This is a safe space where we cherish [Authenticity](), [Vulnerability](), [Freedom]() and [Creativity]() !***
 
 
-<br><br>
+<br><br><br>
+
 
 ###  <p align="center">  [Design]() | [Ethics]() | [Math]() | [Art]() | [Music]() | [Code]() | [Laugh]() | [Cry]() | [Love]() | [Joy]() | [Multimodal]() | [Dance]() | [RAG]() | [EMPATHY]() | [Agents]() | [Psychology]() | [Meditation]() | [Logic]() | [Intuition]() |
 
 
-<br><br>
 
+<br><br><br>
 
 
 https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
@@ -31,8 +32,9 @@ https://github.com/user-attachments/assets/6703b328-10c0-40cf-b738-12b2f0eace48
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants) ![MindfulAI](https://img.shields.io/badge/MindfulAI-𖤐🪷˚ZΞΝ⋆｡ॐ₊.⋆-brightgreen)  ![HumanisticAI](https://img.shields.io/badge/Humanistic_AI-⋆｡ॐ₊.⭒⋅⊹-blueviolet)  ![PUC-SP](https://img.shields.io/badge/PUC--SP-☞≽༏≼⊹-lightgrey)  ![OpenPR](https://img.shields.io/badge/Open-Pull_Request-blue) 
 
 
-<br><br><br>
 
+
+<br><br><br>
 
 
 ### <p align="center"> So, [We Are Friends]() ... 🎶 Thank You... 
@@ -56,7 +58,9 @@ https://github.com/user-attachments/assets/430b5d23-6e0a-4876-986c-b3127141ac75
 
 
 
+
 <br><br><br><br>
+
           
 
 > [!IMPORTANT]
@@ -80,7 +84,7 @@ https://github.com/user-attachments/assets/430b5d23-6e0a-4876-986c-b3127141ac75
 
 
 
-<br><br><br>
+<br><br>
 
 
 
