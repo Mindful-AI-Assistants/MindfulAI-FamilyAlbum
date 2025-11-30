@@ -22,11 +22,23 @@
 <br><br>
 
 
-### <p align="center"> So, [We Are Friends]() ... 🎶 Thank You... 🎶
+### <p align="center"> 🐷 CONTRO TUTTO E CONTRO TUTTI ❤️   Oggi e Per Sempre 🇮🇹  Avanti Palestra 💚🎶
 
 <br>
 
 https://github.com/user-attachments/assets/babf9742-27af-443c-9dc4-b63e62c983ee
+
+
+
+<br><br>
+
+
+### <p align="center"> So, [We Are Friends]() ... 🎶 Thank You... 
+
+<br>
+
+
+https://github.com/user-attachments/assets/4b7a52b9-dc59-48d2-b35f-868527f73bf0
 
 
 <br><br><br>
