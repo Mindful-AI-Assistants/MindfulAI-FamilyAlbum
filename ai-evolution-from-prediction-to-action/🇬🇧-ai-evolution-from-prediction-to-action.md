@@ -2,37 +2,61 @@
 <br>
 
 
-# From Prediction to Action: Understanding Traditional, Generative, and Agentic AI<br>
-## A Practical Guide for Business Leaders, Builders, and Teams<br>
+# From Prediction to Action: Understanding Traditional, Generative, and Agentic AI
+### A Practical Guide for Business Leaders, Builders, and Teams
+
+<br>
 
 Understanding AI is not about buzzwords — it’s about **capability, maturity, and business impact**.<br>
 This document explains the **three major levels of AI** — Traditional, Generative, and Agentic — with clear definitions, real-world examples, limitations, and practical applications across industries.<br>
 
----
 
-## Overview<br>
+<br><br>
 
-Modern AI can be understood as an **evolution of capabilities**:<br>
-- **Traditional AI** predicts and classifies<br>
-- **Generative AI** creates and automates<br>
-- **Agentic AI** acts, decides, and orchestrates systems<br>
+
+## Overview
+
+<br>
+
+Modern AI can be understood as an **evolution of capabilities**:
+
+<br>
+
+- **Traditional AI** predicts and classifies
+
+- **Generative AI** creates and automates
+
+- **Agentic AI** acts, decides, and orchestrates systems
+
+<br><br>
 
 The real value emerges when organizations know **which level they need, when to use it, and how to combine them**.<br>
 
----
 
-## 1️ Traditional AI (Traditional Artificial Intelligence)<br>
+<br><br>
 
-**Focus:** Predict, classify, and detect patterns<br>
 
-Traditional AI is the most established and widely adopted form of AI in enterprises.<br>
-It **does not create new content** — instead, it analyzes historical data to make predictions or decisions based on learned patterns.<br>
+## 1️ Traditional AI (Traditional Artificial Intelligence)
+
+<br>
+
+**Focus:** Predict, classify, and detect patterns
+
+Traditional AI is the most established and widely adopted form of AI in enterprises.
+
+It **does not create new content** — instead, it analyzes historical data to make predictions or decisions based on learned patterns.
+
+<br>
 
 ### Core Capabilities<br>
 
 **1. Predictive Analytics**<br>
-Uses historical data to forecast future outcomes.<br>
-Examples include:<br>
+Uses historical data to forecast future outcomes.
+
+Examples include:
+
+<br>
+
 - Demand forecasting<br>
 - Customer churn prediction<br>
 - Credit risk scoring<br>
