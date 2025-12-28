@@ -62,29 +62,57 @@ Examples include:
 - Credit risk scoring<br>
 - Sales forecasting<br>
 
+
+<br><br>
+
+
 **2. Classification Systems**<br>
-Automatically organizes and labels data.<br>
-Examples include:<br>
+Automatically organizes and labels data.
+
+Examples include:
+
+<br>
+
 - Email spam detection<br>
 - Customer support ticket routing<br>
 - Transaction categorization<br>
 
+
+<br><br>
+
+
 **3. Anomaly Detection**<br>
-Identifies deviations from normal behavior.<br>
-Examples include:<br>
+Identifies deviations from normal behavior.
+
+Examples include:
+
+<br>
+
 - Fraud detection<br>
 - System failure alerts<br>
 - Security breach detection<br>
 
-### Limitations<br>
+
+<br><br>
+
+
+### Limitations
+
+<br>
+
 - Rule-based or fixed-model logic<br>
 - Low flexibility<br>
 - No content generation<br>
-- Struggles with novel scenarios<br>
+- Struggles with novel scenarios
+
+<br><br>
 
 **Best used when problems are stable, repetitive, and data-driven.**<br>
 
----
+
+
+<br><br><br>
+
 
 ## 2️⃣ Generative AI (Generative Artificial Intelligence)<br>
 
@@ -93,30 +121,54 @@ Examples include:<br>
 Generative AI represents a major leap forward.<br>
 It produces **new content** by understanding language, images, and code, enabling a wide range of productivity and automation use cases.<br>
 
+<br>
+
 ### Core Capabilities<br>
 
 **4. Content Generation**<br>
-Creates original outputs such as:<br>
+Creates original outputs such as:
+
+<br>
+
 - Emails and documents<br>
 - Reports and summaries<br>
 - Marketing content<br>
 - Code and technical documentation<br>
 - Images and designs<br>
 
+
+
+<br><br>
+
+
 **5. Workflow Automation**<br>
-Automates day-to-day knowledge work.<br>
-Examples include:<br>
+Automates day-to-day knowledge work.
+
+Examples include:
+
+<br>
+
 - Meeting summaries<br>
 - Data cleanup and formatting<br>
 - Automated responses<br>
 - Information organization<br>
 
+
+<br><br>
+
 **6. Knowledge Systems (RAG – Retrieval-Augmented Generation)**<br>
 Combines AI with internal company data so responses are grounded in proprietary information.<br>
-Examples include:<br>
+Examples include:
+
+<br>
+
 - Internal company chatbots<br>
 - Policy and compliance assistants<br>
 - Contract-aware customer support<br>
+
+
+<br><br>
+
 
 ### Limitations<br>
 - Does not act autonomously<br>
@@ -124,9 +176,14 @@ Examples include:<br>
 - Does not coordinate complex processes<br>
 - Generates content but does not decide outcomes<br>
 
+<br><br>
+
 **Best used to amplify intellectual productivity and content creation.**<br>
 
----
+
+
+<br><br><br>
+
 
 ## 3️⃣ Agentic AI (Agent-Based Artificial Intelligence)<br>
 
