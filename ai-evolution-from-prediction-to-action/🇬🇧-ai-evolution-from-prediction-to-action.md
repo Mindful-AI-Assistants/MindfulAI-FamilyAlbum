@@ -267,11 +267,11 @@ Examples include:<br>
 <br>
 
 
-| [AI Type]() | [Automation Level]() | [Capability]() [Expansion]() | [Process Transformation]() |<br>
-|------|------------------|---------------------|------------------------|<br>
-| [Traditional AI]() | Moderate (rule-based) | Low | Minimal |<br>
-| [Generative AI]() | Medium | High (content & code) | Partial |<br>
-| [Agentic AI]() | High (real execution) | Very High | Full |<br>
+| [AI Type]() | [Automation Level]() | [Capability]() [Expansion]() | [Process Transformation]() |
+|------|------------------|---------------------|------------------------|
+| [Traditional AI]() | Moderate (rule-based) | Low | Minimal |
+| [Generative AI]() | Medium | High (content & code) | Partial |
+| [Agentic AI]() | High (real execution) | Very High | Full |
 
 
 
