@@ -2,8 +2,8 @@
 <br>
 
 
-# From Prediction to Action: Understanding Traditional, Generative, and Agentic AI
-### A Practical Guide for Business Leaders, Builders, and Teams
+# <p align="center">  From Prediction to Action: Understanding Traditional, Generative, and Agentic AI
+### <p align="center">  A Practical Guide for Business Leaders, Builders, and Teams
 
 <br>
 
@@ -37,9 +37,9 @@ Modern AI can be understood as an **evolution of capabilities**:<br>
 
 ## 1. [Traditional AI (Traditional Artificial Intelligence)]() <br>
 
-[-]() [**Focus:**[-]()  Predict, classify, and detect patterns
+[-]() [**Focus:**]()  Predict, classify, and detect patterns
 [-]() Traditional AI is the most established and widely adopted form of AI in enterprises.
-[-]() It [**does not create new content**[-](). Instead, it analyzes historical data to make predictions or decisions based on learned patterns.
+[-]() It [**does not create new content**](). Instead, it analyzes historical data to make predictions or decisions based on learned patterns.
 
 
 <br><br>
