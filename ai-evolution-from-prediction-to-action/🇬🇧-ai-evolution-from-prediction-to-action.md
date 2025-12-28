@@ -18,9 +18,9 @@ This document explains the [**three major levels of AI**]():  Traditional, Gener
 
 Modern AI can be understood as an **evolution of capabilities**:<br>
 
-- [**Traditional AI**[-]()  predicts and classifies
-- [[**Generative AI**[-]()  creates and automates
-- [**Agentic AI**[-]()  acts, decides, and orchestrates systems
+- [**Traditional AI**]()  predicts and classifies
+- [[**Generative AI**]()  creates and automates
+- [**Agentic AI**]()  acts, decides, and orchestrates systems
 
 
 <br>
