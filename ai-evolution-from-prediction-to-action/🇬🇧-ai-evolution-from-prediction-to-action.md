@@ -2,8 +2,8 @@
 <br>
 
 
-# <p align="center">  From Prediction to Action: Understanding Traditional, Generative, and Agentic AI
-### <p align="center">  A Practical Guide for Business Leaders, Builders, and Teams
+# <p align="center">  [From Prediction to Action:]() Understanding Traditional, Generative, and Agentic AI
+### <p align="center">  ***A Practical Guide for Business Leaders, Builders, and Teams***
 
 <br>
 
