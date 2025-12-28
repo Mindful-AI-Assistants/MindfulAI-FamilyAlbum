@@ -267,7 +267,7 @@ Examples include:<br>
 <br>
 
 
-| AI Type | Automation Level | Capability Expansion | Process Transformation |<br>
+| [AI Type]() | [Automation Level]() | [Capability]() [Expansion]() | [Process Transformation]() |<br>
 |------|------------------|---------------------|------------------------|<br>
 | [Traditional AI]() | Moderate (rule-based) | Low | Minimal |<br>
 | [Generative AI]() | Medium | High (content & code) | Partial |<br>
@@ -279,31 +279,31 @@ Examples include:<br>
 
 
 
-# II - [Industry Use Cases]()
+# II - [**Industry Use Cases**]()<br>
 
 <br>
 
-### Financial Services (Banks, Fintechs, Insurance)<br>
+###  [**Financial Services (Banks, Fintechs, Insurance)**]()<br>
 
 [-]() Fraud detection and credit risk analysis<br>
 [-]() Automated reports and customer communication<br>
 [-]() Autonomous transaction blocking and compliance orchestration<br>
 
 
-<br>
+<br><br>
 
 
-### [Retail & E-commerce]()<br>
+### [**Retail & E-commerce**]()<br>
 
 [-]() Demand forecasting and recommendations<br>
-[-]()Automated marketing content<br>
+[-]() Automated marketing content<br>
 [-]() Inventory replenishment and dynamic pricing<br>
 
 
-<br>
+<br><br>
 
 
-### [Manufacturing & Industry]()<br>
+### [**Manufacturing & Industry**]()<br>
 
 
 [-]() Predictive maintenance and quality control<br>
@@ -311,19 +311,19 @@ Examples include:<br>
 [-]() Self-scheduled maintenance and supply coordination<br>
 
 
-<br>
+<br><br>
 
-### [Healthcare]()<br>
+### [**Healthcare**]()<br>
 
 [-]()Clinical pattern detection<br>
 [-]() Medical record summarization<br>
 [-]() Appointment scheduling and patient follow-ups<br>
 
 
-<br>
+<br><br>
 
 
-### [Logistics & Supply Chai]()<br>
+### [**Logistics & Supply Chain**]()<br>()<br>
 
 [-]() Route optimization and delay prediction<br>
 [-]() Automated customer updates<br>
@@ -331,10 +331,10 @@ Examples include:<br>
 
 
 
-<br>
+<br><br>
 
 
-### [Human Resources]()<br>
+### [**Human Resources**]()<br>
 
 [-]() Resume screening and turnover analysis<br>
 [-]() Job description generation and training<br>
@@ -365,10 +365,10 @@ Examples include:<br>
 
 <br>
 
-- Strategic planning and AI roadmaps<br>
-- Executive education and enablement<br>
-- Product design and automation strategy<br>
-- Investor, client, or internal presentations<br>
+[-]()  Strategic planning and AI roadmaps<br>
+[-]() Executive education and enablement<br>
+[-]() Product design and automation strategy<br>
+[-]()  Investor, client, or internal presentations<br>
 
 
 
