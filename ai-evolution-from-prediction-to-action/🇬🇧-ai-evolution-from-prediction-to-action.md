@@ -14,23 +14,19 @@ This document explains the **three major levels of AI** — Traditional, Generat
 <br><br>
 
 
-## Overview
+# I- [Overview]()<br>
+
+Modern AI can be understood as an **evolution of capabilities**:<br>
+
+- [**Traditional AI**[-]()  predicts and classifies
+- [[**Generative AI**[-]()  creates and automates
+- [**Agentic AI**[-]()  acts, decides, and orchestrates systems
+
 
 <br>
 
-Modern AI can be understood as an **evolution of capabilities**:
 
-<br>
-
-- **Traditional AI** predicts and classifies
-- **Generative AI** creates and automates
-- **Agentic AI** acts, decides, and orchestrates systems
-
-
-<br><br>
-
-
-> [IMPORTANT]
+> [!IMPORTANT]
 > 
 > The real value emerges when organizations know **which level they need, when to use it, and how to combine them**.<br>
 
@@ -38,78 +34,73 @@ Modern AI can be understood as an **evolution of capabilities**:
 <br><br>
 
 
-## 1. Traditional AI (Traditional Artificial Intelligence)
 
-<br>
+## 1. [Traditional AI (Traditional Artificial Intelligence)]() <br>
 
-**Focus:** Predict, classify, and detect patterns
+[-]() [**Focus:**[-]()  Predict, classify, and detect patterns
+[-]() Traditional AI is the most established and widely adopted form of AI in enterprises.
+[-]() It [**does not create new content**[-](). Instead, it analyzes historical data to make predictions or decisions based on learned patterns.
 
-Traditional AI is the most established and widely adopted form of AI in enterprises.
 
-It **does not create new content** — instead, it analyzes historical data to make predictions or decisions based on learned patterns.
+<br><br>
 
-<br>
 
-## Core Capabilities
-
-<br>
+## [Core Capabilities]() <br>
 
 1. [** Predictive Analytics*]()<br>
 Uses historical data to forecast future outcomes.
 
-Examples include:
+Examples include:<br>
+
+[-]() Demand forecasting<br>
+[-]()  Customer churn prediction<br>
+[-]()  Credit risk scoring<br>
+[-]()  Sales forecasting<br>
+
 
 <br>
-
-- Demand forecasting<br>
-- Customer churn prediction<br>
-- Credit risk scoring<br>
-- Sales forecasting<br>
-
-
-<br><br>
 
 
 2. [**Classification Systems**]()<br>
 Automatically organizes and labels data.
 
-Examples include:
+Examples include:<br>
+
+
+[-]() Email spam detection<br>
+[-]() Customer support ticket routing<br>
+[-]() Transaction categorization<br>
+
 
 <br>
-
-- Email spam detection<br>
-- Customer support ticket routing<br>
-- Transaction categorization<br>
-
-
-<br><br>
 
 
 **3. Anomaly Detection**<br>
 Identifies deviations from normal behavior.
 
-Examples include:
+Examples include:<br>
+
+[-]()  Fraud detection<br>
+[-]() System failure alerts<br>
+[-]()  Security breach detection<br>
+
 
 <br>
 
-- Fraud detection<br>
-- System failure alerts<br>
-- Security breach detection<br>
 
-
-<br><br>
-
-
-### Limitations
+### [Limitations]()
 
 <br>
 
-- Rule-based or fixed-model logic<br>
-- Low flexibility<br>
-- No content generation<br>
-- Struggles with novel scenarios
+[-]() Rule-based or fixed-model logic<br>
+[-]() Low flexibility<br>
+[-]() No content generation<br>
+[-]() Struggles with novel scenarios
 
-<br><br>
+<br>
+
+
+
 
 **Best used when problems are stable, repetitive, and data-driven.**<br>
 
