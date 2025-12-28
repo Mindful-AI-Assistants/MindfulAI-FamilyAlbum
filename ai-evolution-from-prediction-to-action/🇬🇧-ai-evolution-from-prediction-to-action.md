@@ -270,8 +270,6 @@ Examples include:<br>
 - Self-scheduled maintenance and supply coordination<br>
 
 
-<br><br>
-
 
 ### Healthcare
 
@@ -282,10 +280,8 @@ Examples include:<br>
 - Appointment scheduling and patient follow-ups<br>
 
 
-<br><br>
 
-
-### Logistics & Supply Chain
+### Logistics & Supply Chai
 
 <br>
 
@@ -294,11 +290,9 @@ Examples include:<br>
 - Real-time route replanning and carrier coordination<br>
 
 
-<br><br>
-
-### Human Resources
-
 <br>
+
+### Human Resources<br>
 
 - Resume screening and turnover analysis<br>
 - Job description generation and training<br>
