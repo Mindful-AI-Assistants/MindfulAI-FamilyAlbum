@@ -260,65 +260,73 @@ Examples include:<br>
 <br><br>
 
 
-### Manufacturing & Industry
+### [Manufacturing & Industry]()
 
 <br>
 
 
-- Predictive maintenance and quality control<br>
-- Automated technical documentation<br>
-- Self-scheduled maintenance and supply coordination<br>
-
-
-
-### Healthcare
-
-<br>
-
-- Clinical pattern detection<br>
-- Medical record summarization<br>
-- Appointment scheduling and patient follow-ups<br>
-
-
-
-### Logistics & Supply Chai
-
-<br>
-
-- Route optimization and delay prediction<br>
-- Automated customer updates<br>
-- Real-time route replanning and carrier coordination<br>
+[-]() Predictive maintenance and quality control<br>
+[-]() Automated technical documentation<br>
+[-]() Self-scheduled maintenance and supply coordination<br>
 
 
 <br>
 
-### Human Resources
+### [Healthcare]()
 
 <br>
 
-- Resume screening and turnover analysis<br>
-- Job description generation and training<br>
-- Automated hiring, onboarding, and career path recommendations<br>
+[-]()Clinical pattern detection<br>
+[-]() Medical record summarization<br>
+[-]() Appointment scheduling and patient follow-ups<br>
+
+
+<br>
+
+
+### [Logistics & Supply Chai]()
+
+<br>
+
+[-]() Route optimization and delay prediction<br>
+[-]() Automated customer updates<br>
+[-]() Real-time route replanning and carrier coordination<br>
+
+
+
+<br>
+
+
+### [Human Resources]()<br>
+
+<br>
+
+[-]() Resume screening and turnover analysis<br>
+[-]() Job description generation and training<br>
+[-]() Automated hiring, onboarding, and career path recommendations<br>
 
 
 <br><br>
 
 
-## Key Takeaway
+
+## [Key Takeaway]()
 
 <br>
 
-> [!NOTE}
+> [!NOTE]
 > 
 > Understanding AI is not about trends — it’s about **capability alignment**.<br>
 > High-performing organizations don’t choose one type of AI.<br>
 > **They combine prediction, creation, and action.**<br>
 
 
+
 <br><br>
 
 
-## When to Use This Guide
+
+## [When to Use This Guide]()
 
 <br>
 
@@ -331,7 +339,7 @@ Examples include:<br>
 
 <br><br>
 
-##  Usage
+##  [Usage]()
 
 <br>
 
