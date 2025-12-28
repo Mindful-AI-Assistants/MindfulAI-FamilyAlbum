@@ -8,7 +8,7 @@
 <br>
 
 Understanding AI is not about buzzwords — it’s about **capability, maturity, and business impact**.<br>
-This document explains the **three major levels of AI** — Traditional, Generative, and Agentic — with clear definitions, real-world examples, limitations, and practical applications across industries.<br>
+This document explains the [**three major levels of AI**]():  Traditional, Generative, and Agentic with clear definitions, real-world examples, limitations, and practical applications across industries.<br>
 
 
 <br><br>
@@ -101,29 +101,32 @@ Examples include:<br>
 
 
 
-
-**Best used when problems are stable, repetitive, and data-driven.**<br>
-
-
-
-<br><br><br>
+> [!TIP]
+> 
+> **Best used when problems are stable, repetitive, and data-driven.**
+> <br>
 
 
-## 2️. Generative AI (Generative Artificial Intelligence)<br>
+<br><br>
 
-**Focus:** Create, summarize, and automate cognitive tasks<br>
+
+## 2️. [Generative AI (Generative Artificial Intelligence)]()<br>
+
+[**Focus:**]() Create, summarize, and automate cognitive tasks<br>
 
 Generative AI represents a major leap forward.<br>
 It produces **new content** by understanding language, images, and code, enabling a wide range of productivity and automation use cases.<br>
 
 <br>
 
-### Core Capabilities<br>
 
-**4. Content Generation**<br>
-Creates original outputs such as:
+### [Core Capabilities]()
 
 <br>
+
+
+**4. [Content Generation**]()<br>
+Creates original outputs such as:<br>
 
 - Emails and documents<br>
 - Reports and summaries<br>
@@ -133,15 +136,14 @@ Creates original outputs such as:
 
 
 
-<br><br>
+<br>
 
 
 **5. Workflow Automation**<br>
 Automates day-to-day knowledge work.
 
-Examples include:
+Examples include:<br>
 
-<br>
 
 - Meeting summaries<br>
 - Data cleanup and formatting<br>
@@ -149,13 +151,12 @@ Examples include:
 - Information organization<br>
 
 
-<br><br>
+<br>
 
 **6. Knowledge Systems (RAG – Retrieval-Augmented Generation)**<br>
 Combines AI with internal company data so responses are grounded in proprietary information.<br>
-Examples include:
 
-<br>
+Examples include:<br>
 
 - Internal company chatbots<br>
 - Policy and compliance assistants<br>
@@ -166,23 +167,27 @@ Examples include:
 
 
 ### Limitations<br>
+
 - Does not act autonomously<br>
 - Cannot execute real-world actions<br>
 - Does not coordinate complex processes<br>
 - Generates content but does not decide outcomes<br>
 
-<br><br>
+<br>
+
+
+
 
 **Best used to amplify intellectual productivity and content creation.**<br>
 
 
 
-<br><br><br>
+<br><br>
 
 
-## 3.  Agentic AI (Agent-Based Artificial Intelligence)<br>
+## 3.  [Agentic AI (Agent-Based Artificial Intelligence)]()<br>
 
-**Focus:** Act, decide, execute, and orchestrate systems<br>
+[**Focus:**]() Act, decide, execute, and orchestrate systems<br>
 
 Agentic AI is the most advanced level.<br>
 It does not only generate content — it **plans, reasons, uses tools, and executes actions**, often in collaboration with other agents.
@@ -190,42 +195,49 @@ It does not only generate content — it **plans, reasons, uses tools, and execu
 <br>
 
 
-### Core Capabilities
+### [***Core Capabilities***]()
 
 <br>
 
 
-**7. AI Agents & Tool Use**<br>
+7. [**AI Agents & Tool Use**]()<br>
 Agents interact with APIs, databases, and external systems.<br>
+
 Examples include:<br>
-- Generating a report → fetching data → validating → sending it automatically<br>
-- Handling customer issues → checking history → taking corrective action<br>
+
+[-]() Generating a report → fetching data → validating → sending it automatically<br>
+[-]() Handling customer issues → checking history → taking corrective action<br>
 
 
 <br>
 
-**8. Multi-Agent Orchestration**<br>
+8.  [**Multi-Agent Orchestration**]()<br>
 Multiple specialized agents collaborate toward a shared goal.<br>
+
 Example workflow:<br>
-- One agent gathers data<br>
-- Another analyzes it<br>
-- Another executes actions<br>
-- Another validates outcomes<br>
+
+[-]() One agent gathers data<br>
+[-]() Another analyzes it<br>
+[-]() Another executes actions<br>
+[-]() Another validates outcomes<br>
 
 
 <br>
 
-**9. AI Product Integration**<br>
+9. [**AI Product Integration**]()<br>
 AI becomes a core part of the product or service.<br>
+
 Examples include:<br>
-- Autonomous assistants<br>
-- Intelligent platforms<br>
-- Systems that continuously make operational decisions<br>
+
+[-]() Autonomous assistants<br>
+[-]() Intelligent platforms<br>
+[-]() Systems that continuously make operational decisions<br>
 
 
 <br>
 
-### Advantages<br>
+### [Advantages]()<br>
+
 - Execution with memory and reasoning<br>
 - Persistent context awareness<br>
 - High scalability<br>
@@ -234,7 +246,12 @@ Examples include:<br>
 
 <br>
 
-**Best used for full automation, complex operations, and continuous decision-making.**<br>
+
+> [!TIP]
+> 
+> **Best used for full automation, complex operations, and continuous decision-making.**
+> <br>
+
 
 
 
