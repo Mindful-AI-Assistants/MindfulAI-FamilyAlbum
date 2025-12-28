@@ -5,7 +5,9 @@
 # <p align="center">  [From Prediction to Action:]() Understanding Traditional, Generative, and Agentic AI
 ### <p align="center">  ***A Practical Guide for Business Leaders, Builders, and Teams***
 
-<br>
+
+<br><br>
+
 
 Understanding AI is not about buzzwords — it’s about **capability, maturity, and business impact**.<br>
 This document explains the [**three major levels of AI**]():  Traditional, Generative, and Agentic with clear definitions, real-world examples, limitations, and practical applications across industries.<br>
@@ -23,7 +25,7 @@ Modern AI can be understood as an **evolution of capabilities**:<br>
 - [**Agentic AI**]()  acts, decides, and orchestrates systems
 
 
-<br>
+<br><br>
 
 
 > [!IMPORTANT]
@@ -31,7 +33,8 @@ Modern AI can be understood as an **evolution of capabilities**:<br>
 > The real value emerges when organizations know **which level they need, when to use it, and how to combine them**.<br>
 
 
-<br><br>
+
+<br><br><br>
 
 
 
@@ -40,6 +43,7 @@ Modern AI can be understood as an **evolution of capabilities**:<br>
 [-]() [**Focus:**]()  Predict, classify, and detect patterns
 [-]() Traditional AI is the most established and widely adopted form of AI in enterprises.
 [-]() It [**does not create new content**](). Instead, it analyzes historical data to make predictions or decisions based on learned patterns.
+
 
 
 <br><br>
