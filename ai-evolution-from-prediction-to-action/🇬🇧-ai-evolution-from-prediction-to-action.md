@@ -141,7 +141,7 @@ Creates original outputs such as:<br>
 <br><br>
 
 
-5.  [**CWorkflow Automation**]()<br>
+5. [**Workflow Automation**]()<br>
 Automates day-to-day knowledge work.
 
 Examples include:<br>
@@ -152,9 +152,10 @@ Examples include:<br>
 [-]() Information organization<br>
 
 
-<br>
+<br><br>
 
-**6. Knowledge Systems (RAG – Retrieval-Augmented Generation)**<br>
+
+6. . [**Knowledge Systems (RAG – Retrieval-Augmented Generation)**]()<br>
 Combines AI with internal company data so responses are grounded in proprietary information.<br>
 
 Examples include:<br>
@@ -167,11 +168,11 @@ Examples include:<br>
 <br><br>
 
 
-### Limitations<br>
+### [***Limitations***]()<br>
 
 [-]() Does not act autonomously<br>
 [-]()Cannot execute real-world actions<br>
- [-]() Generates content but does not decide outcomes<br>
+[-]() Generates content but does not decide outcomes<br>
 
 <br>
 
