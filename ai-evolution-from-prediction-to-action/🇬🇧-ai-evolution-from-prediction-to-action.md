@@ -323,7 +323,7 @@ Examples include:<br>
 <br><br>
 
 
-### [**Logistics & Supply Chain**]()<br>()<br>
+### [**Logistics & Supply Chain**]()<br>
 
 [-]() Route optimization and delay prediction<br>
 [-]() Automated customer updates<br>
