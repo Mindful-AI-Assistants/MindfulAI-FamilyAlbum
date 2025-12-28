@@ -45,9 +45,11 @@ Modern AI can be understood as an **evolution of capabilities**:<br>
 <br><br>
 
 
-## [Core Capabilities]() <br>
+## [Core Capabilities]() 
 
-1. [** Predictive Analytics*]()<br>
+<br>
+
+1. [**Predictive Analytics**]()<br>
 Uses historical data to forecast future outcomes.
 
 Examples include:<br>
@@ -58,7 +60,7 @@ Examples include:<br>
 [-]()  Sales forecasting<br>
 
 
-<br>
+<br><br>
 
 
 2. [**Classification Systems**]()<br>
@@ -72,10 +74,10 @@ Examples include:<br>
 [-]() Transaction categorization<br>
 
 
-<br>
+<br><br>
 
 
-**3. Anomaly Detection**<br>
+3.  [**Anomaly Detection**]()<br>
 Identifies deviations from normal behavior.
 
 Examples include:<br>
@@ -85,10 +87,10 @@ Examples include:<br>
 [-]()  Security breach detection<br>
 
 
-<br>
+<br><br>
 
 
-### [Limitations]()
+### [***Limitations***]()
 
 <br>
 
@@ -97,9 +99,8 @@ Examples include:<br>
 [-]() No content generation<br>
 [-]() Struggles with novel scenarios
 
+
 <br>
-
-
 
 > [!TIP]
 > 
@@ -110,7 +111,9 @@ Examples include:<br>
 <br><br>
 
 
-## 2️. [Generative AI (Generative Artificial Intelligence)]()<br>
+## 2. [Generative AI (Generative Artificial Intelligence)]()
+
+<br>
 
 [**Focus:**]() Create, summarize, and automate cognitive tasks<br>
 
@@ -125,30 +128,28 @@ It produces **new content** by understanding language, images, and code, enablin
 <br>
 
 
-**4. [Content Generation**]()<br>
+4. [**Content Generation**]()<br>
 Creates original outputs such as:<br>
 
-- Emails and documents<br>
-- Reports and summaries<br>
-- Marketing content<br>
-- Code and technical documentation<br>
-- Images and designs<br>
+[-]() Emails and documents<br>
+[-]() Reports and summaries<br>
+[-]() Marketing content<br>
+[-]() Code and technical documentation<br>
+[-]() Images and designs<br>
 
 
+<br><br>
 
-<br>
 
-
-**5. Workflow Automation**<br>
+5.  [**CWorkflow Automation**]()<br>
 Automates day-to-day knowledge work.
 
 Examples include:<br>
 
-
-- Meeting summaries<br>
-- Data cleanup and formatting<br>
-- Automated responses<br>
-- Information organization<br>
+[-]() Meeting summaries<br>
+[-]()Data cleanup and formatting<br>
+[-]() Automated responses<br>
+[-]() Information organization<br>
 
 
 <br>
@@ -158,9 +159,9 @@ Combines AI with internal company data so responses are grounded in proprietary 
 
 Examples include:<br>
 
-- Internal company chatbots<br>
-- Policy and compliance assistants<br>
-- Contract-aware customer support<br>
+[-]()Internal company chatbots<br>
+[-]() Policy and compliance assistants<br>
+[-]() Contract-aware customer support<br>
 
 
 <br><br>
@@ -168,24 +169,26 @@ Examples include:<br>
 
 ### Limitations<br>
 
-- Does not act autonomously<br>
-- Cannot execute real-world actions<br>
-- Does not coordinate complex processes<br>
-- Generates content but does not decide outcomes<br>
+[-]() Does not act autonomously<br>
+[-]()Cannot execute real-world actions<br>
+ [-]() Generates content but does not decide outcomes<br>
 
 <br>
 
 
-
-
-**Best used to amplify intellectual productivity and content creation.**<br>
+> [!TIP]
+> 
+> **Best used to amplify intellectual productivity and content creation.**<br>
+> <br>
 
 
 
 <br><br>
 
 
-## 3.  [Agentic AI (Agent-Based Artificial Intelligence)]()<br>
+## 3.  [Agentic AI (Agent-Based Artificial Intelligence)]()
+
+<br>
 
 [**Focus:**]() Act, decide, execute, and orchestrate systems<br>
 
@@ -195,7 +198,7 @@ It does not only generate content — it **plans, reasons, uses tools, and execu
 <br>
 
 
-### [***Core Capabilities***]()
+### [Core Capabilitie]()
 
 <br>
 
@@ -209,7 +212,8 @@ Examples include:<br>
 [-]() Handling customer issues → checking history → taking corrective action<br>
 
 
-<br>
+<br><br>
+
 
 8.  [**Multi-Agent Orchestration**]()<br>
 Multiple specialized agents collaborate toward a shared goal.<br>
@@ -222,7 +226,8 @@ Example workflow:<br>
 [-]() Another validates outcomes<br>
 
 
-<br>
+<br><br>
+
 
 9. [**AI Product Integration**]()<br>
 AI becomes a core part of the product or service.<br>
@@ -234,7 +239,7 @@ Examples include:<br>
 [-]() Systems that continuously make operational decisions<br>
 
 
-<br>
+<br><br>
 
 ### [Advantages]()<br>
 
@@ -253,21 +258,19 @@ Examples include:<br>
 > <br>
 
 
-
-
 <br><br>
 
 
-## [Business Value Comparison]()<br>
+### 10. [**Business Value Comparison**]()<br>
 
 <br>
 
 
 | AI Type | Automation Level | Capability Expansion | Process Transformation |<br>
 |------|------------------|---------------------|------------------------|<br>
-| Traditional AI | Moderate (rule-based) | Low | Minimal |<br>
-| Generative AI | Medium | High (content & code) | Partial |<br>
-| Agentic AI | High (real execution) | Very High | Full |<br>
+| [Traditional AI]() | Moderate (rule-based) | Low | Minimal |<br>
+| [Generative AI]() | Medium | High (content & code) | Partial |<br>
+| [Agentic AI]() | High (real execution) | Very High | Full |<br>
 
 
 
