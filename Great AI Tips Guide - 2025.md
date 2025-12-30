@@ -178,6 +178,36 @@ Also from “Delve, and the many words to ban on ChatGPT”.
 
 Patterns to avoid:
 
+- **“In a world where …” drama**  
+  Formula: “In a world where [change], [virtue] becomes [advantage].”
+
+- **“Most people vs few who” split**  
+  Formula: “Most people [lazy thing]. The few who win [disciplined thing].”
+
+- **“Stop doing X. Start doing Y.” switch**  
+  Formula: “Stop [old habit]. Start [new habit].”
+
+- **“Not this. Not that. But this.” triple**  
+  Formula: “It’s not [obvious]. It’s not [obvious]. It’s [pretend insight].”
+
+- **“If you’re not doing X, you’re already behind” FOMO**  
+
+- **“The real work is …” reveal**  
+
+- **“You don’t need more X. You need Y.” minimalist smack**  
+
+- **“It’s never been easier / harder” paradox**  
+
+- **“Here’s the truth / nobody tells you” fake reveal**
+
+
+
+<br>
+
+
+***Use this section as a style checklist when editing anything you write with AI.***
+
+
 
 
 
