@@ -98,5 +98,87 @@ _Last updated: Nov. 2025_
 
 <br><br>
 
+## Favorite AI guides
+
+_Last updated: Nov. 2025_
+
+- How to AI – <http://how-to-ai.guide/>  
+- OpenAI Academy – <http://academy.openai.com/>  
+- Learn Machine Learning with Andrew Ng – <https://www.coursera.org/specializations/machine-learning-introduction>  
+- Veo course – <https://cloud.google.com/vertex-ai/generative-ai/docs/video/video-gen-prompt-guide>  
+- Midjourney course – <https://docs.midjourney.com/hc/en-us/articles/33329261836941-Getting-Started-Guide>  
+- Perplexity Labs – <https://www.perplexity.ai/hub/blog/introducing-perplexity-labs>  
+- “To replace consultants” – <https://lnkd.in/dy8wC9Xg>  
+- OpusClip to edit video – <https://lnkd.in/dPyJskNM>  
+- Write a thesis with AI – <https://youtu.be/FPO5X8hyQhw?si=VyjLe9dMZZ2imPKq>  
+- Anthropic Academy – <https://www.anthropic.com/learn>  
+- Claude from A to Z – <https://www.anthropic.com/learn/claude-for-you>  
+- ChatGPT images – <https://lnkd.in/dh45EePJ>  
+- Gemini prompting – <https://workspace.google.com/learning/content/gemini-prompt-guide>  
+- Guide to AI agents – <https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf>  
+- Deep dive into LLMs (Karpathy) – <https://www.youtube.com/watch?v=7xTGNNLPyMI&t=1s>  
+- Nano Banana guide – <https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md>  
+
+
+
+<br><br>
+
+
+
+## My AI expert team
+
+NotebookLM notebooks that simulate expert advisors:
+
+- Alex Hormozi (email expert) – <https://notebooklm.google.com/notebook/73b7a289-94bd-495c-9881-47235f078b9c?authuser=1>  
+- Chris Voss (negotiation) – <https://notebooklm.google.com/notebook/6f495a6d-c3bc-40eb-bcfc-f014f774ba20?authuser=1>  
+- TED public speaking – <https://notebooklm.google.com/notebook/c5e0ad45-e688-4dc7-a174-4b9687bceaa6?authuser=1>  
+- Naval on philosophy – <https://notebooklm.google.com/notebook/4525ffd8-4736-4e4e-b99a-3f7b4d6d5a0a?authuser=1>  
+- Pixar storytelling secrets – <https://notebooklm.google.com/notebook/e0854e2a-4fd4-4916-9931-afd3e2c7fb08?authuser=1>  
+- Elon Musk on running a business – <https://notebooklm.google.com/notebook/7bac0b96-9f39-47ef-828e-f9038f0b6dd0?authuser=1>  
+- The science behind productivity – <https://notebooklm.google.com/notebook/4b2916af-c7ac-48b3-ac4b-d0436592e7b2?authuser=1>  
+- Warren Buffett to invest (not to trade) – <https://notebooklm.google.com/notebook/fe0dcae7-9b12-45ae-9f1e-02cf629064fa?authuser=1>  
+- Robert Greene on seduction and power – <https://notebooklm.google.com/notebook/28b17888-eb26-46f9-801a-3cf98fa34d28?authuser=1>  
+
+
+<br><br>
+
+
+
+## Best AI to search
+
+From the newsletter:  
+**How to search with AI (hint: not with ChatGPT)** – <https://open.substack.com/pub/ruben/p/search>
+
+The README can also point to example prompts and winner notes, but you probably want to keep those inside the article to avoid link rot.
+
+
+<br><br>
+
+
+
+## Ban AI words
+
+From: “Delve, and the many words to ban on ChatGPT”.
+
+Words to avoid in AI writing:
+
+> delve, realm, harness, unlock, tapestry, paradigm, cutting-edge, revolutionize, landscape, potential, findings, intricate, showcasing, crucial, pivotal, surpass, meticulously, vibrant, unparalleled, underscore, leverage, synergy, innovative, game-changer, testament, commendable, meticulous, highlight, emphasize, boast, groundbreaking, align, foster, showcase, enhance, holistic, garner, accentuate, pioneering, trailblazing, unleash, versatile, transformative, redefine, seamless, optimize, scalable, robust, breakthrough, empower, streamline, intelligent, smart, next-gen, frictionless, elevate, adaptive, effortless, data-driven, insightful, proactive, mission-critical, visionary, disruptive, reimagine, agile, customizable, personalized, unprecedented, intuitive, leading-edge, synergize, democratize, automate, accelerate, state-of-the-art, dynamic, reliable, efficient, cloud-native, immersive, predictive, transparent, proprietary, integrated, plug-and-play, turnkey, future-proof, open-ended, AI-powered, next-generation, always-on, hyper-personalized, results-driven, machine-first, paradigm-shifting.
+
+You can keep this as a reference section to quickly scan drafts for clichés.
+
+
+
+<br><br>
+
+
+
+## Ban AI expressions
+
+Also from “Delve, and the many words to ban on ChatGPT”.
+
+Patterns to avoid:
+
+
+
 
 
