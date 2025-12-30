@@ -81,3 +81,22 @@ Archive “How to AI” – most recent to oldest.
 <br><br>
 
 
+## My best GPTs
+
+_Last updated: Nov. 2025_
+
+- Prompt Maker – <https://chatgpt.com/g/g-hhh4w3eov-prompt-maker>  
+- Mission GPT – <https://chatgpt.com/g/g-67530e1fbcbc819186a9cae1fc734cfe-mission-gpt>  
+- Color Theory – <https://chatgpt.com/g/g-68931cb667dc81918cf530ba3d393da1-color-theory>  
+- Calendar GPT – <https://chatgpt.com/g/g-g4AWxVob7-calendar-gpt>  
+- Gamma PPT builder – <https://chatgpt.com/g/g-6883394fc2408191989d41961f6a1ecd-gamma-ppt-builder>  
+- Hook Generator GPT – <https://chatgpt.com/g/g-685d6f8f1c048191907f3e0cfd2b0dbf-hook-generator-gpt>  
+- Business Plan Maker – <https://chatgpt.com/g/g-689c3e0de1708191a07e5ea1e8f5f511-business-plan-maker>  
+
+
+
+
+<br><br>
+
+
+
